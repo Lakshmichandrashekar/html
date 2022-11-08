@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border: 2px crimson solid;
+            background-color:darkkhaki;
+            color:darkblue;
+           /* border-bottom:3px;*/
+            padding:10px;
+           margin:30px;
+           outline: 2px darkblue solid;
+           outline-offset:5px;
+           font-family:cursive;
+           font-variant: small-caps;
+           line-height:25px;
+
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <h1 style="text-decoration:underline; color: maroon;" >GOOD MORNING.......!!!!!!!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto doloremque, 
+        eveniet sed, beatae corrupti velit magnam quis nisi maxime quia similique ipsum neque 
+        ullam pariatur laudantium exercitationem aliquid accusamus. Lorem ipsum dolor sit amet
+         consectetur adipisicing elit. Delectus, recusandae ipsum consequatur asperiores soluta 
+         placeat hic voluptatem possimus quae mollitia consectetur expedita veniam voluptatibus 
+         suscipit quasi dolor nam necessitatibus? Possimus? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Explicabo fuga maxime voluptatum! Doloribus quos numquam tenetur, dolores 
+          pariatur eius, autem consequatur non sapiente, tempore enim ipsum facere sed. Voluptatibus, quae?</p>
+    </div>
+</body>
+</html>
